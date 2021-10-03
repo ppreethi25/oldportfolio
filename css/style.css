@@ -2445,6 +2445,8 @@ h6 {
   background: #766dff;
   padding: 0px 50px;
   color: #fff;
+  position: relative;
+  bottom: 10px;
   font-family: "Roboto", sans-serif;
   font-size: 13px;
   font-weight: 500;
@@ -2965,7 +2967,8 @@ padding-top: 30px;
     font-size: 18px;
     font-weight: bold;
     font-family: "Heebo", sans-serif;
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+    padding-top: 10px;}
 
 .ab_widget p {
   font-size: 14px;
