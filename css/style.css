@@ -83,6 +83,7 @@ button:focus {
     background-image: -moz-linear-gradient(0deg, #fac7f3 0%, #f1c5e0 100%);
   background-image: -webkit-linear-gradient(0deg, #fac7f3 0%, #f1c5e0 100%);
   background-image: -ms-linear-gradient(0deg, #fac7f3 0%, #f1c5e0 100%);
+  padding-bottom: 32px;
 
     
 }
